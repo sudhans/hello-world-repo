@@ -5,5 +5,5 @@ jobs:
   hello-job:
     runs-on: ubuntu-latest
     steps: 
-      - name: Echo te4xt
+      - name: Echo text
         run: echo "Hello, world!"
